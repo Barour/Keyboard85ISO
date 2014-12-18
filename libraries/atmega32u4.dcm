@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: 18.12.2014 13:21:05
+#
+$CMP ATMEGA32U4
+D ATmega32U4
+K Atmel, ATMEGA32U4
+F http://www.atmel.com/Images/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf
+$ENDCMP
+#
+#End Doc Library
