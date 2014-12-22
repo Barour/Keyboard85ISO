@@ -4538,4 +4538,21 @@ F 3 "" H 11700 8200 60  0000 C CNN
 $EndComp
 Wire Wire Line
 	7200 8200 7200 7900
+Text Label 15100 6550 0    60   ~ 0
+VCC
+Wire Wire Line
+	13900 6550 15100 6550
+Wire Wire Line
+	13900 6550 13900 8200
+Wire Wire Line
+	13900 8200 11900 8200
+Wire Wire Line
+	13500 7550 13900 7550
+Connection ~ 13900 7550
+Connection ~ 13900 6550
+Connection ~ 13900 6850
+Connection ~ 13900 7200
+Connection ~ 13900 7900
+Connection ~ 11900 8200
+Connection ~ 15100 6550
 $EndSCHEMATC
